@@ -33,6 +33,5 @@ INFORMATION
   <button class="btn btn-default btn-lg " style="margin-left:45%"><a class="button" href="/project/{{$project->id}}/edit">EDIT</a></button
         </div>
 
-<a href="#" class="button">EDIT</a>
 @endcan
 @endsection
